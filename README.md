@@ -36,16 +36,23 @@ To run the **AI Email Auto-Responder** on your machine, follow these simple step
    cd ai-email-auto-responder
 
 2. Install the required Python packages:
+   
    pip install -r requirements.txt
 
 3. Set up your .env file: Create a .env file in the project root and add the following details:
+   
    EMAIL_ADDRESS=your-email@example.com
+   
    EMAIL_PASSWORD=your-password
+   
    IMAP_SERVER=imap.example.com
+   
    SMTP_SERVER=smtp.example.com
+   
    SMTP_PORT=587
 
 4. Run the Streamlit app:
+  
    streamlit run app.py
 
 
