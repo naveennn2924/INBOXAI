@@ -1,0 +1,11 @@
+crewai
+langchain
+sentence-transformers
+faiss-cpu           
+imaplib2
+openai   
+streamlit
+langchain-community
+
+
+
