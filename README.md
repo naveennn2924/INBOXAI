@@ -33,6 +33,7 @@ To run the **AI Email Auto-Responder** on your machine, follow these simple step
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ai-email-auto-responder.git
+   
    cd ai-email-auto-responder
 
 2. Install the required Python packages:
